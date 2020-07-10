@@ -8,19 +8,19 @@ M.Tech in Computer Science Engineering 8.71/10
 B.Tech in Information Technology 8.17/10
 
 ### Experience
-Research Intern
-#### Samsung R&D Institute, Bangalore (May 2019 - July 2019)
+
+#### Samsung R&D Institute, Bangalore - Research Intern (May 2019 - July 2019)
 
 Improved the performance of automatic speech recognition system when used in noisy environment
 
-Teaching Assistant
-#### IIIT, Hyderabad (August 2019 - May 2020)
+
+#### IIIT, Hyderabad - Teaching Assistant (August 2019 - May 2020)
 
 Conducted tutorials, reviewed examination scripts and guided project teams under me for computer vision and discrete mathematics and
 algorithm course
 
-Summer Intern
-#### Bharat Heavy Electricals Limited (June 2016–July 2016)
+
+#### Bharat Heavy Electricals Limited - Summer Intern (June 2016–July 2016)
 Fixed the security vulnerabilities, configured session management, and improved the front-end of the Contract Monitoring System.
 
 ### Paper Implementation
