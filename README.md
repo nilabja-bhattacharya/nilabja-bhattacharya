@@ -9,6 +9,10 @@ B.Tech in Information Technology 8.17/10
 
 ### Experience
 
+#### Oracle IDC, Bangalore - Member of Technical Staff (Nov 2020 - Current)
+
+Working with OCI team to build cloud database APIs and drivers using C and golang
+
 #### Samsung R&D Institute, Bangalore - Research Intern (May 2019 - July 2019)
 
 Improved the performance of automatic speech recognition system when used in noisy environment
@@ -69,9 +73,9 @@ Compilers
 
 ### Technical skills
 #### Languages: 
-C/C++(STL), python, javascript, flask, bash, shell
+C/C++(STL), python, golang
 
 #### Technology: 
-Pytorch, OpenCV, scikit learn, tensorflow, git, openMP, openMPI
+Pytorch, OpenCV, scikit learn, tensorflow, git, delve, gdb
 
 
