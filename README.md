@@ -48,8 +48,11 @@ Built a question and answering web application using flask, python, javascript, 
 
 ### Awards
 2019: Deans list award recipient for academic excellence, awarded to top 10 percent students
+
 2019: Scored 100 percent in Samsung Advanced Programming test
+
 2018: Among top 0.5 percent student in IIIT Hyderabad, PGEE
+
 2018: Among top 4 percent in GATE CSE 2018
 
 ### Courses
