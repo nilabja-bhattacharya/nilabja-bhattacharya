@@ -27,21 +27,10 @@ algorithm course
 #### Bharat Heavy Electricals Limited - Summer Intern (June 2016–July 2016)
 Fixed the security vulnerabilities, configured session management, and improved the front-end of the Contract Monitoring System.
 
-### Paper Implementation
+### Projects
 #### Extreme Multi-label Classification (January 2020 - May 2020)
-
 Improved the multi-label classification of documents by using ranking based auto-encoder and XML-CNN
 
-#### Machine Translation (March 2020 - April 2020)
-Comparison of the performance of neural machine translation and statistical machine translation on WMT14 Engish-Hindi parallel data corpus
-
-#### Grabcut (April 2019 - April 2019)
-An interactive application to segment image into forground and background
-
-#### Optical flow (March 2019 - March 2019)
-An interactive application to determine optical flow for sequence of images and using optical flow to segment and track moving objects
-
-### Projects
 #### Mini torrent (September 2018 - September 2018)
 A Linux based peer to peer file sharing application, that uses multi-threading to upload and download files simultaneously from multiple
 server.
@@ -59,11 +48,8 @@ Built a question and answering web application using flask, python, javascript, 
 
 ### Awards
 2019: Deans list award recipient for academic excellence, awarded to top 10 percent students
-
 2019: Scored 100 percent in Samsung Advanced Programming test
-
 2018: Among top 0.5 percent student in IIIT Hyderabad, PGEE
-
 2018: Among top 4 percent in GATE CSE 2018
 
 ### Courses
